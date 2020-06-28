@@ -1,0 +1,36 @@
+# site settings
+title: CodeBUNNY
+subtitle: by Dipanshu Shukla
+email: shuklascientist5@gmail.com
+description: A website for personal blogging<br /> and elaborate showcase of Open-Source projects.
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Dipanshu Shukla
+street_address:
+city: Shimla
+state: Himachal Pradesh
+zip_code: 
+country: India
+phone: +91 7018195250
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/dipanshu.shukla.710
+github_url: https://github.com/DipanshuShukla
+gitlab_url: https://gitlab.com/DipanshuShukla
+googleplus_url:
+instagram_url: https://www.instagram.com/just_dipanshu/
+linkedin_url: https://linkedin.com/in/dipanshu-shukla-655589195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/DipanshuShukla5
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
