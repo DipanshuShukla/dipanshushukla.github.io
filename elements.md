@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
+title: Github
 nav-menu: true
+image: assets/images/elements.jpg
 ---
 
 <!-- Main -->

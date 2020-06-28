@@ -2,7 +2,7 @@
 title: CodeBUNNY
 subtitle: by Dipanshu Shukla
 email: shuklascientist5@gmail.com
-description: A website for personal blogging<br /> and elaborate showcase of Open-Source projects.
+description: This is a website for personal blogging<br /> and elaborate showcase of Open-Source projects.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Dipanshu Shukla
