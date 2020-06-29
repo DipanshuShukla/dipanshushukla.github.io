@@ -2,7 +2,7 @@
 layout: page
 title: Github
 nav-menu: true
-image: assets/images/elements.jpg
+image: assets/images/keyboard.jpg
 ---
 
 <!-- Main -->
